@@ -1,0 +1,1 @@
+This project makes miltiple AJAX page requests to the Sunlight Foundation Campaign Finance API and stores them into a single variable as a work around to the 100 data elements per request (page) limit.
